@@ -6709,11 +6709,11 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-    background-color: #964a2c !important;
+    background-color: #023e8a !important;
 }
 
 .bg-secondary {
-    background-color: #6c757d !important;
+    background-color: #023e8a !important;
 }
 
 a.bg-secondary:hover,
@@ -10192,7 +10192,7 @@ p.lead {
 }
 
 .social-icons .social-icon:hover {
-    background-color: #bd5d38;
+    background-color: #0077b6;
 }
 
 .dev-icons {
