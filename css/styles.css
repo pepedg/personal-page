@@ -10227,3 +10227,15 @@ section.resume-section .resume-section-content {
         padding-bottom: 5rem;
     }
 }
+
+.flag {
+    display: inline-block;
+    width: 12%;
+    height: auto;
+}
+
+@media only screen and (max-width: 400px) {
+    .flag {
+        width: 2%;
+    }
+}
